@@ -9,4 +9,6 @@ import (
 
 func main () {
 	fmt.Printf("Now you have %g problems. \n", math.Sqrt(7))
+	// the "%g" is a "format specifier" and writes to standard output 
+	// utilizing key, value structured data 
 }
