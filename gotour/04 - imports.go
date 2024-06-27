@@ -1,3 +1,4 @@
+// https://go.dev/tour/basics/2
 package main
 
 // this could be done with import "package" line by line, but why type that out all the time? 

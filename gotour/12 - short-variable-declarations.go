@@ -1,3 +1,4 @@
+// https://go.dev/tour/basics/10
 package main
 
 import "fmt"

@@ -1,3 +1,4 @@
+// https://go.dev/tour/basics/1
 // every go program is made up of packages, starting with package main
 package main
 
